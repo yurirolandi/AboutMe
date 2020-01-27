@@ -23,12 +23,12 @@ export default function Home() {
                 </BoxImg>
 
                 <BoxText>
-                    <h1>Olá, me chamo Yuri</h1>
-                    <h3>Sou Desenvolvedor Front-End no Medgrupo</h3>
+                    <h1>Olá, sou Yuri Rolandi</h1>
+                    <h3>Desenvolvedor Front-End no Medgrupo</h3>
                     <p>
                     Tenho 26 anos, há 2 anos venho me divertindo nessa área e sempre em busca de desafios que me levem a novos aprendizados. Sou apaixonado por games e códigos. 
                     Graduação em Análise e Desenvolvimento de Sistemas em andamento. 
-                    Hoje me empenho como Desenvolvedor Javascript Jr, tendo conhecimento em em HTML, CSS, Sass, Git, React.js, Vue.Js, javaScript e Scrum.
+                    Hoje me empenho como Desenvolvedor Javascript Jr, tendo conhecimento em HTML, CSS, Sass, Git, React.js, Vue.Js, javaScript e Scrum.
                     </p>
                     <p>
                         <b>"Com grandes poderes vêm grandes responsabilidades" Tio Ben. </b>
