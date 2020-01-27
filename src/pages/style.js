@@ -18,8 +18,6 @@ export const H1 = styled.h1`
 export const BoxImg = styled.div`
     border: 14px solid white;
     border-radius: 5px;
-    width: 450px;
-    height: 550px;
     img{
         width: 100%;
     }
@@ -28,6 +26,11 @@ export const BoxImg = styled.div`
 export const BoxText = styled.div`
     margin: 20px 35px;
     max-width: 400px;
+
+    p{
+        margin: 10px 0;
+        letter-spacing: 1px;
+    }
 
     h1, h3, p{
         color: white;
@@ -55,6 +58,7 @@ export const AboutContent = styled.div`
     width: 100%;
     margin: 10px;
     font-size: 1.0rem;
+    align-items: baseline;
     label{
         margin: 0;
         color: #090a0c;

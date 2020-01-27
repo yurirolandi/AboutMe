@@ -26,7 +26,14 @@ export default function Home() {
                     <h1>Hello, me chamo Yuri</h1>
                     <h3>Sou Desenvolvedor Front-End na Medgrupo</h3>
                     <p>
-                        Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.
+                        Atualmente tenho 26 anos e 2 anos no mercado de trabalho. Estou sempre em busca do aprendizado, Sou apaixonado pelo mundo de games e codigos.
+
+                        Hoje faço uma Graduação em Análise e desenvolvimento de sistemas e trabalho como Desenvolvedor javaScript Jr.
+
+                        Tenho conhecimento em HTML, CSS, Sass, Git, React.js, Vue.Js, javaScript e Scrum. Sempre buscando novos desafios que me tragam conhecimento e uma maior experiência profissional. Me dou bem com os prazos e normas a serem seguidos.
+                    </p>
+                    <p>
+                        <b>"Com grandes poderes vêm grandes responsabilidades" Tio Ben. </b>
                     </p>
                     <AboutList>
                         <AboutContent>
@@ -52,7 +59,7 @@ export default function Home() {
                     </AboutList>
 
                     <button>
-                       <a href="../utils/yurirolandi.pdf" download>
+                        <a href="../utils/yurirolandi.pdf" download>
                             DOWNLOAD CV
                        </a>
                     </button>
