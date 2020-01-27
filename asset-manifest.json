@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/AboutMe/static/js/main.1432695f.chunk.js",
-    "main.js.map": "/AboutMe/static/js/main.1432695f.chunk.js.map",
+    "main.js": "/AboutMe/static/js/main.369c4791.chunk.js",
+    "main.js.map": "/AboutMe/static/js/main.369c4791.chunk.js.map",
     "runtime-main.js": "/AboutMe/static/js/runtime-main.a68d3746.js",
     "runtime-main.js.map": "/AboutMe/static/js/runtime-main.a68d3746.js.map",
     "static/js/2.f58e5c3d.chunk.js": "/AboutMe/static/js/2.f58e5c3d.chunk.js",
     "static/js/2.f58e5c3d.chunk.js.map": "/AboutMe/static/js/2.f58e5c3d.chunk.js.map",
     "index.html": "/AboutMe/index.html",
-    "precache-manifest.78cdbc434a70cdcbd35c3782a51a0701.js": "/AboutMe/precache-manifest.78cdbc434a70cdcbd35c3782a51a0701.js",
+    "precache-manifest.6eca69056d188b64bdfa37d98d520add.js": "/AboutMe/precache-manifest.6eca69056d188b64bdfa37d98d520add.js",
     "service-worker.js": "/AboutMe/service-worker.js",
     "static/js/2.f58e5c3d.chunk.js.LICENSE": "/AboutMe/static/js/2.f58e5c3d.chunk.js.LICENSE",
     "static/media/perfil.jpeg": "/AboutMe/static/media/perfil.58d058c5.jpeg"
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.a68d3746.js",
     "static/js/2.f58e5c3d.chunk.js",
-    "static/js/main.1432695f.chunk.js"
+    "static/js/main.369c4791.chunk.js"
   ]
 }
