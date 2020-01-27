@@ -23,14 +23,12 @@ export default function Home() {
                 </BoxImg>
 
                 <BoxText>
-                    <h1>Hello, me chamo Yuri</h1>
-                    <h3>Sou Desenvolvedor Front-End na Medgrupo</h3>
+                    <h1>Olá, me chamo Yuri</h1>
+                    <h3>Sou Desenvolvedor Front-End no Medgrupo</h3>
                     <p>
-                        Atualmente tenho 26 anos e 2 anos no mercado de trabalho. Estou sempre em busca do aprendizado, Sou apaixonado pelo mundo de games e codigos.
-
-                        Hoje faço uma Graduação em Análise e desenvolvimento de sistemas e trabalho como Desenvolvedor javaScript Jr.
-
-                        Tenho conhecimento em HTML, CSS, Sass, Git, React.js, Vue.Js, javaScript e Scrum. Sempre buscando novos desafios que me tragam conhecimento e uma maior experiência profissional. Me dou bem com os prazos e normas a serem seguidos.
+                        Tenho 26 anos, há 2 anos venho me divertindo nessa área e sempre em busca de desafios que me levem a novos aprendizados. Sou apaixonado por games e códigos.
+                        Graduação em Análise e desenvolvimento de sistemas em andamento. 
+                        Hoje me empenho como desenvolvedor Java Script Jr, tendo conhecomento em em HTML, CSS, Sass, Git, React.js, Vue.Js, javaScript e Scrum. 
                     </p>
                     <p>
                         <b>"Com grandes poderes vêm grandes responsabilidades" Tio Ben. </b>
