@@ -56,11 +56,7 @@ export default function Home() {
                         </AboutContent>
                     </AboutList>
 
-                    <button>
-                        <a download href="../utils/yurirolandi.pdf">
-                            DOWNLOAD CV
-                       </a>
-                    </button>
+              
                 </BoxText>
 
             </ContainerRow>
